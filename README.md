@@ -1,6 +1,6 @@
 # Chrome Extension: Upcoming Contests
 
-![Extension Preview](images/img2.jpg)
+![Extension Preview](images/img2.png)
 
 ## Description
 The **Upcoming Contests** Chrome extension displays information about upcoming contests on popular coding platforms such as Codeforces, Codechef, LeetCode, AtCoder, etc. Stay updated with the latest contests right from your browser!
@@ -19,8 +19,8 @@ The **Upcoming Contests** Chrome extension displays information about upcoming c
 4. Click on "Load unpacked" and select the project folder.
 5. The extension will be loaded and ready to use.
 
-![Screenshot 1](images/img1.jpg)
-![Screenshot 2](images/img2.jpg)
+![Screenshot 1](images/img1.png)
+![Screenshot 2](images/img2.png)
 
 ## Usage
 1. Click on the Chrome extension icon in the toolbar to open the Upcoming Contests panel.
