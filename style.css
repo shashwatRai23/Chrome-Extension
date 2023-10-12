@@ -2,7 +2,8 @@ body {
   min-width: 300px;
   background-color: white;
   color: rgb(30, 30, 30,0.8);
-  max-height: 300px;
+  /* max-height: 300px; */
+  /* border-radius: 10px; */
 }
 
 h1,
@@ -35,11 +36,13 @@ p {
 .site {
   display: flex;
   justify-content: space-between;
-  margin-top: 0.3em;
+  margin-top: 0.6em;
+  align-items: center;
 }
 
 .contest_site {
   font-weight: 500;
+  margin-bottom: 0.6em;
   font-size: larger;
   display: flex;
   gap: 1em;
@@ -50,7 +53,11 @@ p {
 }
 
 .url {
-  color: rgb(99, 162, 4);
+  color: white;
+  background-color: rgb(22, 172, 8);
+  padding: 0.5em;
+  border-radius: 5px;
+  text-decoration: none;
 }
 
 .url:hover{
